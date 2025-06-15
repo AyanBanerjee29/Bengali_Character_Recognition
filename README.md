@@ -42,6 +42,8 @@ This project demonstrates:
 
 ## 🔥 Future Improvements
 -Use Transfer Learning with pretrained models (e.g., ResNet, MobileNet) to improve accuracy
+
+
 -Extend support for compound Bangla graphemes (যুক্তাক্ষর)
 
 
