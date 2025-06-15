@@ -38,7 +38,9 @@ This project demonstrates:
 -Output Layer: Softmax activation for 84-class classification
 -Conv2D -> Conv2D -> MaxPooling2D -> Dropout -> Flatten -> Dense -> Dropout -> Dense (Output)
 
-##🔥 Future Improvements
+---
+
+## 🔥 Future Improvements
 -Use Transfer Learning with pretrained models (e.g., ResNet, MobileNet) to improve accuracy
 -Extend support for compound Bangla graphemes (যুক্তাক্ষর)
 
