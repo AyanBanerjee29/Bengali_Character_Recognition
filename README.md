@@ -1,4 +1,4 @@
-# 🇧🇩 BengaliOCR: Optical Character Recognition for Bengali Handwritten Characters
+# BengaliOCR: Optical Character Recognition for Bengali Handwritten Characters
 
 
 ## 🔍 Project Overview
